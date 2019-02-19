@@ -108,22 +108,22 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <iframe src="https://player.vimeo.com/video/314981967" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
    </div>
    <div class="clip_frame grpelem" id="u4139"><!-- image -->
-    <img class="block" id="u4139_img" src="images/img_5672.jpg?crc=27369217" alt="" data-image-width="537" data-image-height="358"/>
+    <img class="block" id="u4139_img" src="images/img_5672.jpg?crc=374249580" data-hidpi-src="images/img_5672_2x.jpg?crc=3824652247" alt="" data-image-width="537" data-image-height="358"/>
    </div>
    <div class="clip_frame grpelem" id="u4149"><!-- image -->
-    <img class="block" id="u4149_img" src="images/img_5681.jpg?crc=4059903511" alt="" data-image-width="537" data-image-height="358"/>
+    <img class="block" id="u4149_img" src="images/img_5681.jpg?crc=15654293" data-hidpi-src="images/img_5681_2x.jpg?crc=3980451010" alt="" data-image-width="537" data-image-height="358"/>
    </div>
    <div class="clip_frame grpelem" id="u4159"><!-- image -->
-    <img class="block" id="u4159_img" src="images/img_5683.jpg?crc=3831184012" alt="" data-image-width="239" data-image-height="358"/>
+    <img class="block" id="u4159_img" src="images/img_5683.jpg?crc=326933348" data-hidpi-src="images/img_5683_2x.jpg?crc=140709985" alt="" data-image-width="239" data-image-height="358"/>
    </div>
    <div class="clip_frame grpelem" id="u4169"><!-- image -->
-    <img class="block" id="u4169_img" src="images/img_5674.jpg?crc=234087703" alt="" data-image-width="537" data-image-height="358"/>
+    <img class="block" id="u4169_img" src="images/img_5674.jpg?crc=3822086360" data-hidpi-src="images/img_5674_2x.jpg?crc=218113383" alt="" data-image-width="537" data-image-height="358"/>
    </div>
    <div class="clip_frame grpelem" id="u4179"><!-- image -->
-    <img class="block" id="u4179_img" src="images/img_5687.jpg?crc=4115556289" alt="" data-image-width="537" data-image-height="358"/>
+    <img class="block" id="u4179_img" src="images/img_5687.jpg?crc=469815064" data-hidpi-src="images/img_5687_2x.jpg?crc=3847828324" alt="" data-image-width="537" data-image-height="358"/>
    </div>
    <div class="clip_frame grpelem" id="u4186"><!-- image -->
-    <img class="block" id="u4186_img" src="images/img_5684.jpg?crc=329400677" alt="" data-image-width="537" data-image-height="358"/>
+    <img class="block" id="u4186_img" src="images/img_5684.jpg?crc=463097654" data-hidpi-src="images/img_5684_2x.jpg?crc=3766973984" alt="" data-image-width="537" data-image-height="358"/>
    </div>
    <div class="verticalspacer" data-offset-top="760" data-content-above-spacer="709" data-content-below-spacer="61"></div>
    <div class="clearfix grpelem" id="u3922-6"><!-- content -->
@@ -140,6 +140,7 @@ f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.require
 var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
