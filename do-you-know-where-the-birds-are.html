@@ -18,7 +18,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
   <link rel="stylesheet" type="text/css" href="css/master_c-master.css?crc=469602485"/>
-  <link rel="stylesheet" type="text/css" href="css/do-you-know-where-the-birds-are.css?crc=136084668" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/do-you-know-where-the-birds-are.css?crc=225778260" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_do-you-know-where-the-birds-are.css?crc=490789447"/>
@@ -78,29 +78,29 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
          <p id="u3741-4"><span id="u3741-3">While looking, we observe, stop, and depart. The looking seems endless while waiting is the essence and meaning.</span></p>
         </div>
        </div>
+       <div class="clearfix grpelem" id="u3742-8"><!-- content -->
+        <p id="u3742-2"><span id="u3742">比想象更漫長</span></p>
+        <p id="u3742-4"><span id="u3742-3">察看，停滯，流走……</span></p>
+        <p id="u3742-6"><span id="u3742-5">尋找永無休止，等待便是意義。</span></p>
+       </div>
       </div>
-     </div>
-     <div class="clearfix grpelem" id="u3742-8"><!-- content -->
-      <p id="u3742-2"><span id="u3742">比想象更漫長</span></p>
-      <p id="u3742-4"><span id="u3742-3">察看，停滯，流走……</span></p>
-      <p id="u3742-6"><span id="u3742-5">尋找永無休止，等待便是意義。</span></p>
      </div>
     </div>
    </div>
    <div class="clip_frame grpelem" id="u3753"><!-- image -->
-    <img class="block" id="u3753_img" src="images/img_3196.jpg?crc=3843754892" alt="" data-image-width="546" data-image-height="364"/>
+    <img class="block" id="u3753_img" src="images/img_3196.jpg?crc=240637102" data-hidpi-src="images/img_3196_2x.jpg?crc=4265014158" alt="" data-image-width="546" data-image-height="364"/>
    </div>
    <div class="clip_frame grpelem" id="u3763"><!-- image -->
-    <img class="block" id="u3763_img" src="images/img_3207.jpg?crc=314336724" alt="" data-image-width="487" data-image-height="365"/>
+    <img class="block" id="u3763_img" src="images/img_3207.jpg?crc=341193326" data-hidpi-src="images/img_3207_2x.jpg?crc=4059994027" alt="" data-image-width="487" data-image-height="365"/>
    </div>
    <div class="clip_frame grpelem" id="u3773"><!-- image -->
-    <img class="block" id="u3773_img" src="images/img_3226.jpg?crc=80388212" alt="" data-image-width="546" data-image-height="364"/>
+    <img class="block" id="u3773_img" src="images/img_3226.jpg?crc=4101042208" data-hidpi-src="images/img_3226_2x.jpg?crc=186096591" alt="" data-image-width="546" data-image-height="364"/>
    </div>
    <div class="clip_frame grpelem" id="u3944"><!-- image -->
-    <img class="block" id="u3944_img" src="images/img_3216.jpg?crc=3991783863" alt="" data-image-width="546" data-image-height="364"/>
+    <img class="block" id="u3944_img" src="images/img_3216.jpg?crc=4088983668" data-hidpi-src="images/img_3216_2x.jpg?crc=426713384" alt="" data-image-width="546" data-image-height="364"/>
    </div>
    <div class="clip_frame grpelem" id="u3793"><!-- image -->
-    <img class="block" id="u3793_img" src="images/img_3205.jpg?crc=3809740256" alt="" data-image-width="548" data-image-height="365"/>
+    <img class="block" id="u3793_img" src="images/img_3205.jpg?crc=317938375" data-hidpi-src="images/img_3205_2x.jpg?crc=3892815554" alt="" data-image-width="548" data-image-height="365"/>
    </div>
    <div class="verticalspacer" data-offset-top="492" data-content-above-spacer="489" data-content-below-spacer="61"></div>
    <div class="clearfix grpelem" id="u3922-6"><!-- content -->
@@ -117,6 +117,7 @@ f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.require
 var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */

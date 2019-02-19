@@ -59,20 +59,20 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    </div>
    <div class="clearfix grpelem" id="ppu3556"><!-- column -->
     <div class="clearfix colelem" id="pu3556"><!-- group -->
-     <a class="nonblock nontext clip_frame grpelem" id="u3556" href="passby.html"><!-- image --><img class="block" id="u3556_img" src="images/34900008197x241.jpg?crc=275877252" alt="" data-image-width="196" data-image-height="241"/></a>
-     <a class="nonblock nontext clip_frame grpelem" id="u3563" href="darwin.html"><!-- image --><img class="block" id="u3563_img" src="images/darwin%20cover.jpg?crc=262892125" alt="" data-image-width="428" data-image-height="241"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u3556" href="passby.html"><!-- image --><img class="block" id="u3556_img" src="images/34900008197x241.jpg?crc=473148679" data-hidpi-src="images/34900008197x241_2x.jpg?crc=372716319" alt="" data-image-width="196" data-image-height="241"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u3563" href="darwin.html"><!-- image --><img class="block" id="u3563_img" src="images/darwin%20cover.jpg?crc=205430258" data-hidpi-src="images/darwin%20cover_2x.jpg?crc=413016356" alt="" data-image-width="428" data-image-height="241"/></a>
      <div class="clip_frame grpelem" id="u3607"><!-- image -->
-      <img class="block" id="u3607_img" src="images/img_0686.jpg?crc=3947778009" alt="" data-image-width="362" data-image-height="241"/>
+      <img class="block" id="u3607_img" src="images/img_0686.jpg?crc=4271305705" data-hidpi-src="images/img_0686_2x.jpg?crc=332596292" alt="" data-image-width="362" data-image-height="241"/>
      </div>
      <div class="clip_frame grpelem" id="u3597"><!-- image -->
-      <img class="block" id="u3597_img" src="images/img_4554.jpg?crc=4027279353" alt="" data-image-width="362" data-image-height="241"/>
+      <img class="block" id="u3597_img" src="images/img_4554.jpg?crc=3996878827" data-hidpi-src="images/img_4554_2x.jpg?crc=3770672887" alt="" data-image-width="362" data-image-height="241"/>
      </div>
     </div>
     <div class="clearfix colelem" id="pu3647"><!-- group -->
-     <a class="nonblock nontext clip_frame grpelem" id="u3647" href="where-shall-we-meet-tonight.html"><!-- image --><img class="block" id="u3647_img" src="images/img_5687362x242.jpg?crc=18546250" alt="" data-image-width="362" data-image-height="241"/></a>
-     <a class="nonblock nontext clip_frame grpelem" id="u3637" href="mush-room.html"><!-- image --><img class="block" id="u3637_img" src="images/mush%20cover.jpg?crc=3952314613" alt="" data-image-width="361" data-image-height="241"/></a>
-     <a class="nonblock nontext clip_frame grpelem" id="u3627" href="happily-ever-after.html"><!-- image --><img class="block" id="u3627_img" src="images/happy%20cover.jpg?crc=3864574262" alt="" data-image-width="428" data-image-height="241"/></a>
-     <a class="nonblock nontext clip_frame grpelem" id="u3617" href="do-you-know-where-the-birds-are.html"><!-- image --><img class="block" id="u3617_img" src="images/img_1618.jpg?crc=4090018692" alt="" data-image-width="362" data-image-height="241"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u3647" href="where-shall-we-meet-tonight.html"><!-- image --><img class="block" id="u3647_img" src="images/img_5687362x242.jpg?crc=3957966054" data-hidpi-src="images/img_5687362x242_2x.jpg?crc=4291374173" alt="" data-image-width="362" data-image-height="241"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u3637" href="mush-room.html"><!-- image --><img class="block" id="u3637_img" src="images/mush%20cover.jpg?crc=494133029" data-hidpi-src="images/mush%20cover_2x.jpg?crc=3942112272" alt="" data-image-width="361" data-image-height="241"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u3627" href="happily-ever-after.html"><!-- image --><img class="block" id="u3627_img" src="images/happy%20cover.jpg?crc=4037154426" data-hidpi-src="images/happy%20cover_2x.jpg?crc=4073772468" alt="" data-image-width="428" data-image-height="241"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u3617" href="do-you-know-where-the-birds-are.html"><!-- image --><img class="block" id="u3617_img" src="images/img_1618.jpg?crc=3912231466" data-hidpi-src="images/img_1618_2x.jpg?crc=28083320" alt="" data-image-width="362" data-image-height="241"/></a>
     </div>
    </div>
    <div class="verticalspacer" data-offset-top="599" data-content-above-spacer="598" data-content-below-spacer="61"></div>
@@ -90,6 +90,7 @@ f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.require
 var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */

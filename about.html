@@ -18,7 +18,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
   <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=4024888322"/>
-  <link rel="stylesheet" type="text/css" href="css/about.css?crc=4145204258" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/about.css?crc=86749052" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_about.css?crc=74051016"/>
@@ -95,7 +95,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <a class="nonblock nontext clearfix grpelem" id="u1836-4" href="https://docs.google.com/document/d/15TFKD7YCjGvYyE-TCQ3IAwAdCcFOe1P_Vw4nVsoLv_M/edit?usp=sharing"><!-- content --><p>CV</p></a>
    </div>
-   <div class="verticalspacer" data-offset-top="546" data-content-above-spacer="537" data-content-below-spacer="61"></div>
+   <div class="verticalspacer" data-offset-top="546" data-content-above-spacer="536" data-content-below-spacer="61"></div>
    <div class="clearfix grpelem" id="u1461-6"><!-- content -->
     <p>©️ 2019 LIAO JIAMING</p>
     <p id="u1461-4">all rights reserved</p>
@@ -110,6 +110,7 @@ f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.require
 var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
