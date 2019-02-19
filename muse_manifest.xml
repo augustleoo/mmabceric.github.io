@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="liaojiaming.net" resolutions="1x,2x" timestamp="1550596603340">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="liaojiaming.net" resolutions="1x,2x" timestamp="1550597087412">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_b-master.css" crc="4024888322" ref="index:about:contact:snaps:work:words"/>
@@ -129,20 +129,20 @@
     <file name="img_5684_2x.jpg" crc="3766973984" seo="true" ref="where-shall-we-meet-tonight"/>
     <file name="img_4736.jpg" crc="71983307" seo="true" ref="mush-room"/>
     <file name="img_4736_2x.jpg" crc="4092912751" seo="true" ref="mush-room"/>
-    <file name="_dsc2852.jpg" crc="3931979641" seo="true" ref="mush-room"/>
-    <file name="_dsc2852_2x.jpg" crc="517788202" seo="true" ref="mush-room"/>
     <file name="img_4700.jpg" crc="3828838591" seo="true" ref="mush-room"/>
     <file name="img_4700_2x.jpg" crc="295215270" seo="true" ref="mush-room"/>
-    <file name="_dsc2879.jpg" crc="3883101660" seo="true" ref="mush-room"/>
-    <file name="_dsc2879_2x.jpg" crc="3977665128" seo="true" ref="mush-room"/>
-    <file name="_dsc2740.jpg" crc="41408211" seo="true" ref="mush-room"/>
-    <file name="_dsc2740_2x.jpg" crc="3985550651" seo="true" ref="mush-room"/>
-    <file name="_dsc2743.jpg" crc="4249203756" seo="true" ref="mush-room"/>
-    <file name="_dsc2743_2x.jpg" crc="238705520" seo="true" ref="mush-room"/>
-    <file name="_dsc2736.jpg" crc="255461299" seo="true" ref="mush-room"/>
-    <file name="_dsc2736_2x.jpg" crc="485353431" seo="true" ref="mush-room"/>
-    <file name="_dsc2789.jpg" crc="430757458" seo="true" ref="mush-room"/>
-    <file name="_dsc2789_2x.jpg" crc="332954052" seo="true" ref="mush-room"/>
+    <file name="dsc2852.jpg" crc="516048169" seo="true" ref="mush-room"/>
+    <file name="dsc2852_2x.jpg" crc="189017153" seo="true" ref="mush-room"/>
+    <file name="dsc2879.jpg" crc="5610078" seo="true" ref="mush-room"/>
+    <file name="dsc2879_2x.jpg" crc="3967093509" seo="true" ref="mush-room"/>
+    <file name="dsc2740.jpg" crc="231456034" seo="true" ref="mush-room"/>
+    <file name="dsc2740_2x.jpg" crc="4271877222" seo="true" ref="mush-room"/>
+    <file name="dsc2743.jpg" crc="391752590" seo="true" ref="mush-room"/>
+    <file name="dsc2743_2x.jpg" crc="4230071305" seo="true" ref="mush-room"/>
+    <file name="dsc2736.jpg" crc="3990920373" seo="true" ref="mush-room"/>
+    <file name="dsc2736_2x.jpg" crc="293591338" seo="true" ref="mush-room"/>
+    <file name="dsc2789.jpg" crc="24737739" seo="true" ref="mush-room"/>
+    <file name="dsc2789_2x.jpg" crc="4157505493" seo="true" ref="mush-room"/>
   </folder>
   <file name="index.html" crc="4014287352" seo="true" mt="1550570643906" redirect="true"/>
   <file name="work.html" crc="4062961494" seo="true" mt="1550570643906" redirect="true"/>
@@ -154,6 +154,6 @@
   <file name="darwin.html" crc="329676182" seo="true" mt="1550570643912" redirect="true"/>
   <file name="do-you-know-where-the-birds-are.html" crc="273249737" seo="true" mt="1550570643912" redirect="true"/>
   <file name="where-shall-we-meet-tonight.html" crc="404319503" seo="true" mt="1550570643912" redirect="true"/>
-  <file name="mush-room.html" crc="361451993" seo="true" mt="1550570643912" redirect="true"/>
+  <file name="mush-room.html" crc="3985360164" seo="true" mt="1550597072499" redirect="true"/>
   <file name="happily-ever-after.html" crc="422688929" seo="true" mt="1550570643912" redirect="true"/>
 </manifest>

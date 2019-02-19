@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://liaojiaming.net/mush-room.html</loc>
-    <lastmod>2019-02-19</lastmod>
+    <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -493,18 +493,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://liaojiaming.net/images/_dsc2852.jpg</loc>
-    <lastmod>2019-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://liaojiaming.net/images/_dsc2852_2x.jpg</loc>
-    <lastmod>2019-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://liaojiaming.net/images/img_4700.jpg</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -517,61 +505,73 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://liaojiaming.net/images/_dsc2879.jpg</loc>
+    <loc>http://liaojiaming.net/images/dsc2852.jpg</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://liaojiaming.net/images/_dsc2879_2x.jpg</loc>
+    <loc>http://liaojiaming.net/images/dsc2852_2x.jpg</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://liaojiaming.net/images/_dsc2740.jpg</loc>
+    <loc>http://liaojiaming.net/images/dsc2879.jpg</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://liaojiaming.net/images/_dsc2740_2x.jpg</loc>
+    <loc>http://liaojiaming.net/images/dsc2879_2x.jpg</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://liaojiaming.net/images/_dsc2743.jpg</loc>
+    <loc>http://liaojiaming.net/images/dsc2740.jpg</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://liaojiaming.net/images/_dsc2743_2x.jpg</loc>
+    <loc>http://liaojiaming.net/images/dsc2740_2x.jpg</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://liaojiaming.net/images/_dsc2736.jpg</loc>
+    <loc>http://liaojiaming.net/images/dsc2743.jpg</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://liaojiaming.net/images/_dsc2736_2x.jpg</loc>
+    <loc>http://liaojiaming.net/images/dsc2743_2x.jpg</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://liaojiaming.net/images/_dsc2789.jpg</loc>
+    <loc>http://liaojiaming.net/images/dsc2736.jpg</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://liaojiaming.net/images/_dsc2789_2x.jpg</loc>
+    <loc>http://liaojiaming.net/images/dsc2736_2x.jpg</loc>
+    <lastmod>2019-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://liaojiaming.net/images/dsc2789.jpg</loc>
+    <lastmod>2019-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://liaojiaming.net/images/dsc2789_2x.jpg</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
