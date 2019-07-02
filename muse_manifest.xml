@@ -1,40 +1,42 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="liaojiaming.net" resolutions="1x,2x" timestamp="1553356061801">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="liaojiaming.net" resolutions="1x,2x" timestamp="1562060910943">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_b-master.css" crc="3894623655" ref="index:about:contact:snaps:work:words"/>
-    <file name="master_c-master.css" crc="491832685" ref="where-shall-we-meet-tonight:passby:happily-ever-after:mush-room:darwin:do-you-know-where-the-birds-are"/>
-    <file name="index.css" crc="431124855" ref="index"/>
+    <file name="master_b-master.css" crc="4229048983" ref="index:about:contact:snaps:work:words"/>
+    <file name="master_c-master.css" crc="491832685" ref="where-shall-we-meet-tonight:passby:happily-ever-after:mush-room:darwin:do-you-know-where-the-birds-are:excessively-perfect"/>
+    <file name="index.css" crc="144175069" ref="index"/>
     <file name="iefonts_index.css" crc="275269130" ref="index"/>
     <file name="where-shall-we-meet-tonight.css" crc="430505396" ref="where-shall-we-meet-tonight"/>
     <file name="iefonts_where-shall-we-meet-tonight.css" crc="4086582141" ref="where-shall-we-meet-tonight"/>
     <file name="passby.css" crc="3793280612" ref="passby"/>
     <file name="iefonts_passby.css" crc="286471817" ref="passby"/>
-    <file name="about.css" crc="23211274" ref="about"/>
-    <file name="iefonts_about.css" crc="406078778" ref="about"/>
+    <file name="about.css" crc="4216229005" ref="about"/>
+    <file name="iefonts_about.css" crc="288698937" ref="about"/>
     <file name="happily-ever-after.css" crc="3970268426" ref="happily-ever-after"/>
     <file name="iefonts_happily-ever-after.css" crc="140489789" ref="happily-ever-after"/>
-    <file name="contact.css" crc="4282357225" ref="contact"/>
+    <file name="contact.css" crc="74181727" ref="contact"/>
     <file name="iefonts_contact.css" crc="529033052" ref="contact"/>
-    <file name="snaps.css" crc="431124855" ref="snaps"/>
+    <file name="snaps.css" crc="144175069" ref="snaps"/>
     <file name="iefonts_snaps.css" crc="275269130" ref="snaps"/>
-    <file name="work.css" crc="21965361" ref="work"/>
+    <file name="work.css" crc="3787639732" ref="work"/>
     <file name="iefonts_work.css" crc="275269130" ref="work"/>
     <file name="mush-room.css" crc="515796155" ref="mush-room"/>
     <file name="iefonts_mush-room.css" crc="3965293565" ref="mush-room"/>
-    <file name="words.css" crc="431124855" ref="words"/>
+    <file name="words.css" crc="144175069" ref="words"/>
     <file name="iefonts_words.css" crc="275269130" ref="words"/>
     <file name="darwin.css" crc="4233703327" ref="darwin"/>
     <file name="iefonts_darwin.css" crc="4102688419" ref="darwin"/>
     <file name="do-you-know-where-the-birds-are.css" crc="188489552" ref="do-you-know-where-the-birds-are"/>
     <file name="iefonts_do-you-know-where-the-birds-are.css" crc="4020828366" ref="do-you-know-where-the-birds-are"/>
+    <file name="excessively-perfect.css" crc="281361408" ref="excessively-perfect"/>
+    <file name="iefonts_excessively-perfect.css" crc="4012823680" ref="excessively-perfect"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after"/>
-    <file name="museutils.js" crc="163421577" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after"/>
-    <file name="whatinput.js" crc="86476730" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after"/>
-    <file name="museconfig.js" crc="168988563" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after"/>
-    <file name="require.js" crc="244322403" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after:excessively-perfect"/>
+    <file name="museutils.js" crc="163421577" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after:excessively-perfect"/>
+    <file name="whatinput.js" crc="86476730" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after:excessively-perfect"/>
+    <file name="museconfig.js" crc="168988563" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after:excessively-perfect"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after:excessively-perfect"/>
+    <file name="require.js" crc="244322403" ref="index:work:snaps:words:about:contact:passby:darwin:do-you-know-where-the-birds-are:where-shall-we-meet-tonight:mush-room:happily-ever-after:excessively-perfect"/>
     <file name="webpro.js" crc="3848665353" ref="passby"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="passby"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="passby"/>
@@ -143,17 +145,38 @@
     <file name="dsc2736_2x.jpg" crc="293591338" seo="true" ref="mush-room"/>
     <file name="dsc2789.jpg" crc="24737739" seo="true" ref="mush-room"/>
     <file name="dsc2789_2x.jpg" crc="4157505493" seo="true" ref="mush-room"/>
+    <file name="img_9923.jpg" crc="358466311" seo="true" ref="work"/>
+    <file name="img_9923_2x.jpg" crc="3775232804" seo="true" ref="work"/>
+    <file name="img_9875.jpg" crc="332583350" seo="true" ref="excessively-perfect"/>
+    <file name="img_9875_2x.jpg" crc="4119650177" seo="true" ref="excessively-perfect"/>
+    <file name="img_9886.jpg" crc="247853786" seo="true" ref="excessively-perfect"/>
+    <file name="img_9886_2x.jpg" crc="77414840" seo="true" ref="excessively-perfect"/>
+    <file name="img_9892.jpg" crc="3900412282" seo="true" ref="excessively-perfect"/>
+    <file name="img_9892_2x.jpg" crc="3760025311" seo="true" ref="excessively-perfect"/>
+    <file name="img_9908.jpg" crc="4225326528" seo="true" ref="excessively-perfect"/>
+    <file name="img_9908_2x.jpg" crc="3851640404" seo="true" ref="excessively-perfect"/>
+    <file name="img_9909.jpg" crc="463790666" seo="true" ref="excessively-perfect"/>
+    <file name="img_9909_2x.jpg" crc="93174239" seo="true" ref="excessively-perfect"/>
+    <file name="img_9897.jpg" crc="4032152325" seo="true" ref="excessively-perfect"/>
+    <file name="img_9897_2x.jpg" crc="152887809" seo="true" ref="excessively-perfect"/>
+    <file name="img_9903.jpg" crc="499984096" seo="true" ref="excessively-perfect"/>
+    <file name="img_9903_2x.jpg" crc="3952696046" seo="true" ref="excessively-perfect"/>
+    <file name="img_9905.jpg" crc="365412154" seo="true" ref="excessively-perfect"/>
+    <file name="img_9905_2x.jpg" crc="4218052534" seo="true" ref="excessively-perfect"/>
+    <file name="img_9879.jpg" crc="256131032" seo="true" ref="excessively-perfect"/>
+    <file name="img_9879_2x.jpg" crc="288474236" seo="true" ref="excessively-perfect"/>
   </folder>
-  <file name="index.html" crc="490937912" seo="true" mt="1553355986279" redirect="true"/>
-  <file name="work.html" crc="3913093582" seo="true" mt="1553355986279" redirect="true"/>
-  <file name="snaps.html" crc="402465846" seo="true" mt="1553355986279" redirect="true"/>
-  <file name="words.html" crc="17914686" seo="true" mt="1553355986279" redirect="true"/>
-  <file name="about.html" crc="4272501390" seo="true" mt="1553355986279" redirect="true"/>
-  <file name="contact.html" crc="4117899594" seo="true" mt="1553355986279" redirect="true"/>
+  <file name="index.html" crc="79530469" seo="true" mt="1562057456902" redirect="true"/>
+  <file name="work.html" crc="4100489898" seo="true" mt="1562058717942" redirect="true"/>
+  <file name="snaps.html" crc="270559599" seo="true" mt="1562057456902" redirect="true"/>
+  <file name="words.html" crc="238403694" seo="true" mt="1562057456902" redirect="true"/>
+  <file name="about.html" crc="4184115886" seo="true" mt="1562057456902" redirect="true"/>
+  <file name="contact.html" crc="4084380158" seo="true" mt="1562057456902" redirect="true"/>
   <file name="passby.html" crc="42265404" seo="true" mt="1553355986279" redirect="true"/>
   <file name="darwin.html" crc="4090034954" seo="true" mt="1553355986279" redirect="true"/>
   <file name="do-you-know-where-the-birds-are.html" crc="73703646" seo="true" mt="1553355986279" redirect="true"/>
   <file name="where-shall-we-meet-tonight.html" crc="497885388" seo="true" mt="1553355986279" redirect="true"/>
   <file name="mush-room.html" crc="3943802471" seo="true" mt="1553355986279" redirect="true"/>
   <file name="happily-ever-after.html" crc="4132068698" seo="true" mt="1553355986279" redirect="true"/>
+  <file name="excessively-perfect.html" crc="4241142653" seo="true" mt="1562060851849" redirect="true"/>
 </manifest>
